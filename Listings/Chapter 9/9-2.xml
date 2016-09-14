@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="4"
+yahoo:created="2016-06-25T22:09:50Z" yahoo:lang="en-US">
+  <results>
+    <quote Symbol="YHOO">
+      <Date>2016-01-12</Date>
+      <Open>30.58</Open>
+      <High>30.969999</High>
+      <Low>30.209999</Low>
+      <Close>30.690001</Close>
+      <Volume>12635300</Volume>
+      <Adj_Close>30.690001</Adj_Close>
+    </quote>
+    <quote Symbol="YHOO">
+      <Date>2016-01-11</Date>
+      <Open>30.65</Open>
+      <High>30.75</High>
+      <Low>29.74</Low>
+      <Close>30.17</Close>
+      <Volume>16676500</Volume>
+      <Adj_Close>30.17</Adj_Close>
+    </quote>
+    <quote Symbol="AAPL">
+      <Date>2016-01-12</Date>
+      <Open>100.550003</Open>
+      <High>100.690002</High>
+      <Low>98.839996</Low>
+      <Close>99.959999</Close>
+      <Volume>49154200</Volume>
+      <Adj_Close>98.818866</Adj_Close>
+    </quote>
+    <quote Symbol="AAPL">
+      <Date>2016-01-11</Date>
+      <Open>98.970001</Open>
+      <High>99.059998</High>
+      <Low>97.339996</Low>
+      <Close>98.529999</Close>
+      <Volume>49739400</Volume>
+      <Adj_Close>97.40519</Adj_Close>
+    </quote>
+  </results>
+</query>
+<!-- total: 89 -->
+<!-- main-9ec5d772-3a4c-11e6-a4df-d4ae52974c31 -->

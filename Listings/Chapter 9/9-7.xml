@@ -1,0 +1,6 @@
+<FIXML xmlns="http://www.fixprotocol.org/FIXML-5-0-SP2">
+  <Order TmInForce="0" Typ="1" Side="1" Acct="999999">
+    <Instrmt SecTyp="CS" Sym="AAPL"/>
+    <OrdQty Qty="100"/>
+  </Order>
+</FIXML>

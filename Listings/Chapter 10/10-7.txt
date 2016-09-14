@@ -1,0 +1,20 @@
+# Delete a task
+schtasks /delete /tn PLAN
+
+# Run a task
+schtasks /run /tn PLAN
+
+# End a currently run task, does not affect scheduling
+schtasks /end /tn PLAN
+
+# Get info on a task
+schtasks /query /tn PLAN
+
+# Modify a task (this example removes Wednesday from PLAN)
+schtasks /change /tn PLAN /d mon,tue,thu,fri
+
+# Disable a task, cancel scheduling
+schtasks /change /tn PLAN /disable
+
+# Enable an inactive task, resume scheduling
+schtasks /change /tn PLAN /enable

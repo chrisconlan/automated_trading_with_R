@@ -1,0 +1,29 @@
+# Opening and closing XML tags, empty
+<Date></Date>
+
+# Opening and closing XML tags, with value
+<Date>2016-01-11</Date>
+  
+# Opening and closing XML tags, with value and attribute
+<Date format="YYYY-MM-DD">2016-01-11</Date>
+  
+# Self-closing XML tag
+<Date />
+   
+# Self-closing XML tag with attributes
+<Date format="YYYY-MM-DD" value="2016-01-11" />
+
+# XML Comment
+<!-- some comment or explanation -->
+
+# XML Declaration
+<?xml version="1.0" encoding="UTF-8"?>
+  
+# Processing Instruction
+<?xml-stylesheet type="text/xsl" href="XLS/Todo.xsl" ?>
+  
+# Character Data Entity (Escapes symbolic characters)
+<codeSnippet><![CDATA[ y < x | z > sqrt(y) ]]></codeSnippet>
+  
+# Document Type Declaration
+<!DOCTYPE html>

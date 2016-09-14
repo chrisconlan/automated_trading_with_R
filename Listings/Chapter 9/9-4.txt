@@ -1,0 +1,18 @@
+# Child node
+child::someNode
+someNode
+
+# Attribute value
+attribute::someAttr
+@someAttr
+
+# Parent node
+someNode/parent::*/someSibling
+someNode/../someSibling
+
+# Descendent-or-self
+someNode/descendent-or-self::node()/someDescendent
+someNode//someDescendent
+
+# Ancestor (has no abbreviation)
+someNode/ancestor::someAncestorNode
