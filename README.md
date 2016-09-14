@@ -1,3 +1,4 @@
-# Automated Trading with R
-## Quantitative Research and Platform Development
-## Christopher Conlan
+## Automated Trading with R by Christopher Conlan
+### Community Enhancements to Original Source
+
+
