@@ -1,0 +1,2 @@
+invalid <-
+character(0)
