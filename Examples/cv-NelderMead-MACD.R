@@ -1089,7 +1089,6 @@ plot(equitySeries)
 
 
 
-830x460 
 plot(equitySeries, main = "Figure 8.12: Cross-Validated Equity Curve for Long-Only MACD",
 ylab = "Account Equity ($)", xlab = "")
 
