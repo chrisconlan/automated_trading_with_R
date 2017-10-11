@@ -13,7 +13,7 @@
 # mydata = Quandl("FRED/GDP", start_date="2001-12-31", end_date="2005-12-31")
 # mydata_columns <- Quandl(c("WIKI/AAPL.8", "WIKI/AAPL.9"), start_date="2017-01-01")
 
-#qundl API
+#quandl API
 quandl_api = "MYAPIKEY"
 
 #add my key
